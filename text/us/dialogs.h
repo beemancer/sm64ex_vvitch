@@ -277,8 +277,9 @@ quietly in the hallway!"))
 DEFINE_DIALOG(DIALOG_020, 1, 6, 95, 150, _("\
 Dear Epilogue Gaming:\n\
 Please come to my\n\
-birthday party. I have\n\
-bottomless mimosas for you.\n\
+birthday party.\n\
+I have bottomless\n\
+mimosas for you.\n\
 Yours truly--\n\
 MissVVitch"))
 
